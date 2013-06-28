@@ -1,12 +1,3 @@
-/*
- *  MyContactListener.cpp
- *  firstbox2d
- *
- *  Created by andy on 11-9-29.
- *  Copyright 2011 __MyCompanyName__. All rights reserved.
- *
- */
-
 #include "MyContactListener.h"
 
 MyContactListener::MyContactListener() : contacts()

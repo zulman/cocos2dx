@@ -1,10 +1,3 @@
-//
-//  HelloWorldScene.h
-//  firstbox2d
-//
-//  Created by andy on 11-9-28.
-//  Copyright __MyCompanyName__ 2011. All rights reserved.
-//
 #ifndef __HELLO_WORLD_H__
 #define __HELLO_WORLD_H__
 
